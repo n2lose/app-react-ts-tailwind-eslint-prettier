@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-# todo-app-redux-toolkit
+# app-react-ts-tailwind-eslint-prettier
 Create React Todo App use [Vite](https://vitejs.dev), [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Tailwindcss](https://tailwindcss.com), [Eslint](https://eslint.org), [Prettier](https://prettier.io) 
 
 # Getting Started
